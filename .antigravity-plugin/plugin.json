@@ -1,0 +1,29 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "welder-social-manager",
+  "displayName": "Welder",
+  "version": "1.3.0",
+  "description": "Post videos, photos, carousels and text to TikTok, Instagram, YouTube, Facebook Pages, Threads, Bluesky and X from your agent, now or on a schedule.",
+  "logo": "assets/logo-padded.svg",
+  "suggestedPrompts": [
+    "Write a post about my business and share it on Facebook and Threads",
+    "Post my photo to Instagram with a caption you write",
+    "Plan 3 posts for this week and show me each one before it goes out"
+  ],
+  "author": {
+    "name": "Endless River Labs Ltd",
+    "url": "https://weldergtm.com"
+  },
+  "homepage": "https://weldergtm.com",
+  "repository": "https://github.com/Endless-River-Labs/welder-plugins",
+  "license": "MIT",
+  "keywords": [
+    "welder",
+    "social media",
+    "autoposting",
+    "scheduling",
+    "tiktok",
+    "instagram",
+    "youtube"
+  ]
+}
