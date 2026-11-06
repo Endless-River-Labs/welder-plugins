@@ -3,12 +3,15 @@
   "shortDescription": "自动发布到 TikTok、Instagram 和 YouTube",
   "longDescription": "在 Kimi 中写好帖子，Welder 会立即或在你选定的时间发布到 TikTok、Instagram、YouTube、Facebook 主页、Threads、Bluesky 和 X。每条帖子发布前都会先给你确认。登录 Welder 并连接你自己的社交账号；各平台的授权在浏览器中完成。",
   "developerName": "Endless River Labs Ltd",
-  "websiteURL": "https://weldergtm.com",
+  "tryPrompts": [
+    "明天上午 9 点把这个视频发布到 TikTok、Instagram 和 YouTube",
+    "看看我最近 30 天的帖子表现如何，下一步该尝试什么",
+    "读取我最新帖子下的新评论，并起草回复供我审阅"
+  ],
   "mcpOverrides": {
     "welder": {
       "displayName": "Welder",
-      "description": "为已连接的社交账号发布和定时发布内容、查看数据及评论",
-      "iconUrl": "https://weldergtm.com/brand/icon-512.png"
+      "description": "为已连接的社交账号发布和定时发布内容、查看数据及评论"
     }
   },
   "skillOverrides": {
@@ -32,8 +35,5 @@
       "displayName": "与受众互动",
       "description": "阅读评论并准备回复"
     }
-  },
-  "supportURL": "https://weldergtm.com/support",
-  "privacyPolicyURL": "https://weldergtm.com/privacy",
-  "termsOfServiceURL": "https://weldergtm.com/terms"
+  }
 }

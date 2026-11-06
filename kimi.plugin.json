@@ -30,6 +30,14 @@
     "longDescription": "Make a post in Kimi and Welder puts it on TikTok, Instagram, YouTube, Facebook Pages, Threads, Bluesky and X, now or at a time you choose. You see every post before it goes live. Sign in to Welder and connect your own accounts; provider consent happens in your browser.",
     "developerName": "Endless River Labs Ltd",
     "websiteURL": "https://weldergtm.com",
+    "iconUrl": "https://weldergtm.com/brand/icon-512.png",
+    "category": "PRODUCTIVITY",
+    "hostKind": "hosted",
+    "tryPrompts": [
+      "Post this video to TikTok, Instagram and YouTube tomorrow at 9am",
+      "Show how my posts from the last 30 days performed and what to try next",
+      "Read the new comments on my latest post and draft replies for me to review"
+    ],
     "defaultLocale": "en-US",
     "locales": "./locales/",
     "mcpOverrides": {
@@ -60,9 +68,6 @@
         "displayName": "Engage audience",
         "description": "Read comments and prepare replies"
       }
-    },
-    "supportURL": "https://weldergtm.com/support",
-    "privacyPolicyURL": "https://weldergtm.com/privacy",
-    "termsOfServiceURL": "https://weldergtm.com/terms"
+    }
   }
 }
